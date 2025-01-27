@@ -23,3 +23,9 @@ This text is ***Really inportant *** // bold
 My favorite Search engine is [Google](https://www.google.ca/).
 
 ![Squide game image](/image/Background.png)
+
+## Table
+Column 1 | Column 2
+-- | --
+Row 1 | Row 1
+Row 2 | Row 2
