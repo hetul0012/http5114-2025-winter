@@ -18,4 +18,4 @@ This repository includs materials from Workshops in Web Development 1. In this c
 - Markdown
 - Visual studio code
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Html-logo](/assets/html-logo.png);
