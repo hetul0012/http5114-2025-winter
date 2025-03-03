@@ -18,4 +18,3 @@ This repository includs materials from Workshops in Web Development 1. In this c
 - Markdown
 - Visual studio code
 
-![Html-logo](/assets/html-logo.png);
